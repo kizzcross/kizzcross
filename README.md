@@ -1,5 +1,5 @@
 ## Hi I'm João!
-I currently work at <strong>[OniMusic]</strong> as a Fullstack Junior Dev. I love working on both backend and really like frontend development (sometimes).
+I currently work at <strong>[OniMusic]</strong> as a Fullstack Junior Dev. I love working on backend and really like frontend development (sometimes) 😅.
 
 
 ## Techs
