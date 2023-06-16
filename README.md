@@ -16,6 +16,8 @@ I currently work at <strong>[OniMusic]</strong> as a Fullstack Junior Dev. I lov
 
 ## Stats
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=kizzcross&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kizzcross&layout=compact&langs_count=16&theme=dracula)](https://github.com/dracula/github-readme-stats)
+
 
 ## Contact
 <div> 
