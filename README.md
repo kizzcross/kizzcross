@@ -1,27 +1,96 @@
-## Hi I'm João!
-I currently work at <strong>[OniMusic]</strong> as a Fullstack Junior Dev. I love working on backend and really like frontend development (sometimes) 😅.
+<h1 align="center">Hey, I'm João 👋</h1>
 
+<h3 align="center">Fullstack Developer focused on Backend Development</h3>
 
-## Techs
-<div style="display: inline_block"><br>
-  <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="João-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="João-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="João-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="João-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="João-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<p align="center">
+  Building web applications, APIs and occasionally fighting with CSS 😅
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm currently working at **OniMusic** as a **Fullstack Junior Developer**.
+
+My main focus is **backend development**, especially building APIs, integrations and web applications with **Python and Django**.
+
+I also enjoy frontend development with **React** — at least when CSS decides to cooperate.
+
+- 🐍 Backend enthusiast
+- ⚛️ React enjoyer (sometimes)
+- 🚀 Always learning and building
+- 🎮 Interested in technology, games and software development
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,go,javascript,react,html,css,postgres,git,docker" />
+
 </div>
 
-## Stats
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=kizzcross&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kizzcross&layout=compact&langs_count=16&theme=dracula)](https://github.com/dracula/github-readme-stats)
+<br>
 
+<div align="center">
 
-## Contact
-<div> 
-  <a href = "mailto:jvcastrocunha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/joao-v-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+**Backend**  
+Python • Django • Flask • Go
+
+**Frontend**  
+JavaScript • React • HTML • CSS
+
+**Database**  
+PostgreSQL
+
+**Tools**  
+Git • Docker
+
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kizzcross&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizzcross&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kizzcross&theme=dracula&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:jvcastrocunha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/joao-v-ferreira/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <b>💻 Code. Learn. Build. Repeat.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kizzcross&style=flat-square&color=blueviolet" />
+</p>
