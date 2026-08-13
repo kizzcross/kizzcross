@@ -266,53 +266,37 @@ End-to-end applications combining backend systems with modern frontend interface
 
 ## Currently Exploring
 
-<pre>
-$ cat current_focus.txt
-
-> AI agents and multi-step workflows
-> LangGraph orchestration
-> LLM integrations with real-world systems
-> Backend architecture
-> Observability and distributed systems
-> Process automation
-
-$ _
-</pre>
-
----
-
-## Contact
+## Current Focus
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI_Agents-282A36?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-282A36?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend_Architecture-282A36?style=flat-square" />
+  <img src="https://img.shields.io/badge/Observability-282A36?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-282A36?style=flat-square" />
+</p>
 
-<a href="mailto:jvcastrocunha@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/joao-v-ferreira/">
-  <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/kizzcross">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<p align="center">
+  Building smarter backend systems, experimenting with agentic workflows
+  and finding new ways to automate boring things.
 </p>
 
 ---
 
-<div align="center">
+## Connect
 
-<pre>
- /\_/\
-( =.= )
- > ^ <
-</pre>
+<p align="center">
+  <a href="mailto:jvcastrocunha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joao-v-ferreira/">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kizzcross">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<b>Code. Break. Debug. Learn. Repeat.</b>
-
-<br><br>
-
-<code>kizzcross@github:~$ exit</code>
-
-</div>
+<p align="center">
+  <sub>always building something (=^･ω･^=)</sub>
+</p>
